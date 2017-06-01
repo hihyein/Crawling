@@ -1,0 +1,2 @@
+class Anamhaksick < ApplicationRecord
+end
